@@ -1,7 +1,7 @@
 # COMP2396-BigTwo
 This is a 4 people Poker game, with anime GUI and networking design from the course COMP2396 based on Java.
 
-*\*note: This project has some problem with the networking part, namely the BigTwoClient.java file. *
+_Note: This project has some problem with the networking part, namely the BigTwoClient.java file. _
 
 ### Game Rules ###
 Please refer to https://www.pagat.com/climbing/bigtwo.html for a detailed description of the
